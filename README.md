@@ -17,6 +17,17 @@ Este projeto é um simulador que calcula o valor da multa e informa se o veícul
 # speed-calculator
 Abra o arquivo index.html no seu navegador.
 
+---
+
+✅ **Esse é o conteúdo completo do `README.md`.**  
+→ Se quiser, posso incluir também **prints** ou **GIFs** mostrando a aplicação rodando — isso é comum e valoriza bastante o repositório! Quer que eu gere também?  
+
+Só me avisar:  
+✅ "Quero print ou GIF"  
+❌ "Não precisa"  
+
+Me confirma!
+
 Insira os dados e clique em Verificar.
 
 🎯 Objetivos educacionais
