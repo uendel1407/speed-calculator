@@ -33,14 +33,3 @@ Desenvolvido por Uendel da Cruz Santos 🚀
 
 yaml
 Copiar código
-
----
-
-✅ **Esse é o conteúdo completo do `README.md`.**  
-→ Se quiser, posso incluir também **prints** ou **GIFs** mostrando a aplicação rodando — isso é comum e valoriza bastante o repositório! Quer que eu gere também?  
-
-Só me avisar:  
-✅ "Quero print ou GIF"  
-❌ "Não precisa"  
-
-Me confirma!
