@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="pratica.css">
+</head>
+<body>
+    <header>
+        <div>
+            CALCULADOR DE MULTAS
+        </div>
+    </header>
+    <section>
+        <div> limite de velocidade do local:
+            <input type="radio" id="trinta" name="km" checked>
+            <label for="trinta">30</label>
+            <input type="radio" id="quarenta" name="km">
+            <label for="quarenta">40</label>
+            <input type="radio" id="secenta"  name="km">
+            <label for="secenta">60</label>
+            <input type="radio" id="oitenta" name="km">
+            <label for="oitenta">80</label>
+        </div>
+        <div>velocidade do veiuculo:
+            <input type="number" id="velo" min="0">
+        </div>
+        <div>
+            <input type="button" value="verificar" onclick="verificar()">
+        </div>
+        <div id="res">
+            preencha o campo acima para obter os resultados
+        </div>
+        <script src="pratica.js"></script>
+    </section>
+
+    <footer>&copy;segurancanotransito</footer>
+</body>
+</html>
