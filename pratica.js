@@ -1,3 +1,4 @@
+window.alet('preencha o formulario para obter os resultados')
 function verificar(){
     var velo = document.getElementById('velo')
     var res = document.getElementById('res')
